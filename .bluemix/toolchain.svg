@@ -327,12 +327,14 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">THINK</text>
 
 
+
 <text
    id="headerSVG.code"
    class="st14 st15"
    x="89.154427"
    y="13.541426"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">CODE</text>
+
 
 
 <text
@@ -343,6 +345,7 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">DELIVER</text>
 
 
+
 <text
    id="headerSVG.run"
    class="st14 st15"
@@ -351,21 +354,24 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">RUN</text>
 
 
+
 <text
    id="headerSVG.issueTracker"
    class="st14 st15"
-   x="1.2640599"
-   y="124.54143"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">ISSUE TRACKER</text>
+   x="1.4020299"
+   y="124.57265"
+   style="font-size:6.1875px;font-family:Arial-BoldMT;stroke-width:0.56249994">ISSUE TRACKER</text>
+
 
 
 
 <text
    id="headerSVG.repository"
    class="st14 st15"
-   x="110.51025"
-   y="124.54143"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">REPOSITORY</text>
+   x="110.71165"
+   y="124.57265"
+   style="font-size:6.1875px;font-family:Arial-BoldMT;stroke-width:0.56249994">REPOSITORY</text>
+
 
 
 
@@ -377,12 +383,14 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">PIPELINE</text>
 
 
+
 <text
    id="headerSVG.ibmCloud"
    class="st14 st15"
    x="284.49545"
    y="124.54143"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">IBM Cloud</text>
+
 
 
 <text
@@ -393,6 +401,7 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">WEB IDE</text>
 
 
+
 <text
    id="headerSVG.kubernetes"
    class="st14 st15"
@@ -401,12 +410,14 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">Kubernetes</text>
 
 
+
 <text
    id="headerSVG.cluster"
    class="st14 st15"
    x="292.70523"
    y="150.14102"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">Cluster</text>
+
 
 
 <circle
@@ -467,6 +478,7 @@
    id="text94"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitLab</text>
 
+
 	<path
    class="st0"
    d="M36.5,88.7c-6-7.3,1.1-17,2.3-17"
@@ -506,6 +518,7 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitLab</text>
 
 
+
 	<path
    class="st0"
    d="M123.5,88.7c-6-7.3,1.1-17,2.3-17"
@@ -543,6 +556,7 @@
    class="st14 st15"
    id="text128"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitHub</text>
+
 
 
 	<path
@@ -803,6 +817,7 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitHub</text>
 
 
+
 	<path
    id="path-1_1_"
    class="st24"
@@ -1061,6 +1076,7 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">Bitbucket</text>
 
 
+
 	<path
    d="M57.9,79.4v-2.4h-1.1h-1.1v-1.2v-1.2h-1.1H33h-1.1v1.2v1.2h-1.1h-1.1v2.4h-2.2v19.5h32.6V79.4H57.9z M33,75.8h21.6v1.2H33   V75.8z M59,97.8H28.7V80.7h1.1h28.1H59V97.8z"
    id="path218" />
@@ -1076,6 +1092,7 @@
    class="st14 st15"
    id="text223"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">Bitbucket</text>
+
 
 
 	<path
@@ -1094,6 +1111,7 @@
    id="text230">GitLab</text>
 
 
+
 	<path
    d="M30.2,97.3l3.8,4.2l16-17.8l-3.8-4.2L30.2,97.3z M34,100l-2.4-2.7l14.7-16.3l2.4,2.7L34,100z"
    id="path232" />
@@ -1108,6 +1126,7 @@
    transform="matrix(1 0 0 1 119 137.4998)"
    class="st14 st15"
    id="text237">GitLab</text>
+
 
 
 	<path
