@@ -36,8 +36,8 @@
    id="namedview246"
    showgrid="false"
    inkscape:zoom="1.7412731"
-   inkscape:cx="216.25308"
-   inkscape:cy="215.23231"
+   inkscape:cx="176.14999"
+   inkscape:cy="121.75"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -77,66 +77,9 @@
 	.st29{fill:#AC5C51;}
 	.st30{fill:#9CDAF0;}
 </style>
-<line
-   id="svg_15"
-   class="st6"
-   x1="186"
-   y1="251.05002"
-   x2="186"
-   y2="222.55"
-   style="fill:none;stroke:#5aaafa;stroke-width:3;stroke-miterlimit:10" /><circle
-   id="svg_26"
-   class="st1"
-   cx="186"
-   cy="293.89999"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
-   r="39.75" /><path
-   id="XMLID_17_"
-   class="st11"
-   d="m 200.25,316.25001 h -28.8 c -4.2,0 -7.5,-3.45 -7.5,-7.50001 v -29.4 c 0,-4.19999 3.45,-7.49999 7.5,-7.49999 h 28.95 c 4.2,0 7.5,3.45 7.5,7.35 v 29.1 c -0.15,4.5 -3.45,7.95 -7.65,7.95 z"
-   inkscape:connector-curvature="0"
-   style="fill:#231f20;stroke-width:1.5" /><circle
-   id="XMLID_16_"
-   class="st12"
-   cx="199.04999"
-   cy="284.14999"
-   style="fill:#fcc215;stroke-width:1.5"
-   r="4.2000003" /><circle
-   id="XMLID_15_"
-   transform="rotate(-89.861606)"
-   class="st12"
-   cx="-293.88211"
-   cy="193.76163"
-   style="fill:#fcc215;stroke-width:1.50000429"
-   r="4.2000122" /><circle
-   id="XMLID_14_"
-   class="st12"
-   cx="187.05"
-   cy="304.54999"
-   style="fill:#fcc215;stroke-width:1.5"
-   r="4.2000003" /><path
-   id="XMLID_13_"
-   class="st13"
-   d="m 186.9,298.25 h -0.6 c -0.3,0 -0.45,-0.15006 -0.45,-0.44999 V 290.45 c 0,-0.29999 0.15,-0.44999 0.45,-0.44999 h 0.6 c 0.3,0 0.45,0.15006 0.45,0.44999 v 7.2 c 0.15,0.30001 -0.15,0.6 -0.45,0.6 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff;stroke-width:1.5" /><path
-   id="XMLID_3_"
-   class="st13"
-   d="m 205.35,290.00001 v 0 c -0.45,0 -0.75,0.3 -0.75,0.75 v 4.65 l -3.9,-5.1 v 0 l -0.15,-0.15006 v 0 h -0.15 -0.15 v 0 0 h -0.15 v 0 c -0.3,0.15006 -0.45,0.29999 -0.6,0.6 0,0 0,0 0,0.15006 v 0 6.6 c 0,0.45 0.3,0.74999 0.75,0.74999 v 0 c 0.45,0 0.75,-0.29999 0.75,-0.74999 V 293.15 l 3.9,4.95001 c 0.15,0.15007 0.15,0.15007 0.3,0.29999 v 0 h 0.15 v 0 0 h 0.15 v 0 c 0.3,0 0.6,-0.44999 0.6,-0.75 v -6.89999 c 0,-0.45 -0.3,-0.75 -0.75,-0.75 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff;stroke-width:1.5" /><path
-   id="XMLID_9_"
-   class="st13"
-   d="m 171.6,285.95 c -3.3,0 -6,2.85001 -6,6.45 0,3.60001 2.7,6.45 6,6.45 3.3,0 5.85,-2.99999 5.85,-6.45 0,-3.44999 -2.55,-6.45 -5.85,-6.45 z m 0,11.7 c -2.7,0 -4.8,-2.24999 -4.8,-5.1 0,-2.84999 2.1,-5.25 4.8,-5.25 2.7,0 4.8,2.25001 4.8,5.25 0,3.00001 -2.25,5.1 -4.8,5.1 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff;stroke-width:1.5" /><path
-   id="XMLID_8_"
-   class="st13"
-   d="m 183.75,292.70001 v -0.45 c 0,-1.20001 -1.05,-2.25 -2.25,-2.25 h -0.15 -1.65 v 0 c -0.45,0 -0.75,0.3 -0.75,0.75 v 6.6 c 0,0.45 0.3,0.75 0.75,0.75 v 0 c 0.45,0 0.75,-0.3 0.75,-0.75 v -1.95 l 1.8,2.4 c 0.3,0.3 0.75,0.44999 1.05,0.15006 v 0 c 0.3,-0.30001 0.45,-0.75 0.15,-1.05001 l -1.5,-2.09999 c 1.05,-0.15006 1.8,-1.05001 1.8,-2.1 z m -1.2,-0.15007 c 0,0.6 -0.45,1.2 -1.2,1.2 h -0.9 v 0 -2.39999 h 0.9 c 0.6,-0.15007 1.2,0.44999 1.2,1.19999 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff;stroke-width:1.5" /><g
+<g
    id="g7"
-   transform="translate(0,121.5)">
+   transform="matrix(1.45,0,0,1.45,8.45,5.475)">
 	<title
    id="title4">background</title>
 	<rect
@@ -153,67 +96,67 @@
 <circle
    id="svg_1"
    class="st1"
-   cx="187.7"
-   cy="128.35001"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
-   r="39.75" />
+   cx="198.25499"
+   cy="130.89999"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.45000005;stroke-miterlimit:10"
+   r="38.424999" />
 <circle
    id="svg_2"
    class="st1"
-   cx="57.799999"
-   cy="128.8"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
-   r="39.75" />
+   cx="72.684998"
+   cy="131.33501"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.45000005;stroke-miterlimit:10"
+   r="38.424999" />
 <rect
    id="svg_3"
-   y="1"
+   y="5.4750004"
    class="st2"
-   width="125.25"
-   height="4.5"
-   x="0"
-   style="fill:#eec02b;stroke-width:1.22474492" />
+   width="121.075"
+   height="6.5250001"
+   x="8.4499998"
+   style="fill:#eec02b;stroke-width:1.45000005" />
 <rect
    id="svg_4"
-   x="134.54999"
-   y="1"
+   x="138.515"
+   y="5.4750004"
    class="st3"
-   width="125.25"
-   height="4.5"
-   style="fill:#1cb3a0;stroke-width:1.22474492" />
+   width="121.075"
+   height="6.5250001"
+   style="fill:#1cb3a0;stroke-width:1.45000005" />
 <rect
    id="svg_5"
-   x="269.54999"
-   y="1"
+   x="269.01498"
+   y="5.4750004"
    class="st4"
-   width="125.25"
-   height="4.5"
-   style="fill:#975ad1;stroke-width:1.22474492" />
+   width="121.075"
+   height="6.5250001"
+   style="fill:#975ad1;stroke-width:1.45000005" />
 <rect
    id="svg_6"
-   x="403.19998"
-   y="1"
+   x="398.20999"
+   y="5.4750004"
    class="st5"
-   width="125.25"
-   height="4.5"
-   style="fill:#fc42a0;stroke-width:1.22474492" />
+   width="121.075"
+   height="6.5250001"
+   style="fill:#fc42a0;stroke-width:1.45000005" />
 <circle
    id="svg_7"
    class="st1"
-   cx="323"
-   cy="128.35001"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
-   r="39.75" />
+   cx="329.04501"
+   cy="130.89999"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.45000005;stroke-miterlimit:10"
+   r="38.424999" />
 <line
    id="svg_9"
    class="st6"
-   x1="57.049999"
-   y1="61.600014"
-   x2="187.09999"
-   y2="61.600014"
-   style="fill:none;stroke:#5aaafa;stroke-width:3;stroke-miterlimit:10" />
+   x1="71.959999"
+   y1="66.375"
+   x2="197.675"
+   y2="66.375"
+   style="fill:none;stroke:#5aaafa;stroke-width:2.9000001;stroke-miterlimit:10" />
 <g
    id="svg_10"
-   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
+   transform="matrix(1.45,0,0,1.45,8.45,5.475)">
 	<g
    id="svg_11">
 		<polyline
@@ -231,10 +174,17 @@
 		</g>
 	</g>
 </g>
-
+<line
+   id="svg_15"
+   class="st6"
+   x1="197.675"
+   y1="249.075"
+   x2="197.675"
+   y2="221.52499"
+   style="fill:none;stroke:#5aaafa;stroke-width:2.9000001;stroke-miterlimit:10" />
 <g
    id="svg_16"
-   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
+   transform="matrix(1.45,0,0,1.45,8.45,5.475)">
 	<g
    id="svg_17">
 		<line
@@ -257,7 +207,7 @@
 </g>
 <g
    id="svg_21"
-   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
+   transform="matrix(1.45,0,0,1.45,8.45,5.475)">
 	<g
    id="svg_22">
 		<line
@@ -278,10 +228,16 @@
 		</g>
 	</g>
 </g>
-
+<circle
+   id="svg_26"
+   class="st1"
+   cx="197.675"
+   cy="298.22998"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.45000005;stroke-miterlimit:10"
+   r="38.424999" />
 <g
    id="svg_112"
-   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
+   transform="matrix(1.45,0,0,1.45,8.45,5.475)">
 	<g
    id="g3-2"
    transform="scale(1.7500001)">
@@ -353,17 +309,61 @@
 		</g>
 	</g>
 </g>
-
-
-
-
-
-
-
-
+<path
+   id="XMLID_17_"
+   class="st11"
+   d="m 211.45,319.835 h -27.84 c -4.06,0 -7.25,-3.335 -7.25,-7.25 v -28.42 c 0,-4.06 3.335,-7.25 7.25,-7.25 h 27.985 c 4.06,0 7.25,3.335 7.25,7.105 v 28.13 c -0.145,4.35 -3.335,7.685 -7.395,7.685 z"
+   inkscape:connector-curvature="0"
+   style="fill:#231f20;stroke-width:1.45000005" />
+<circle
+   id="XMLID_16_"
+   class="st12"
+   cx="210.28999"
+   cy="288.80499"
+   style="fill:#fcc215;stroke-width:1.45000005"
+   r="4.0599999" />
+<circle
+   id="XMLID_15_"
+   transform="rotate(-89.861606)"
+   class="st12"
+   cx="-298.16937"
+   cy="205.21191"
+   style="fill:#fcc215;stroke-width:1.4500041"
+   r="4.0600119" />
+<circle
+   id="XMLID_14_"
+   class="st12"
+   cx="198.69"
+   cy="308.52499"
+   style="fill:#fcc215;stroke-width:1.45000005"
+   r="4.0599999" />
+<path
+   id="XMLID_13_"
+   class="st13"
+   d="m 198.545,302.435 h -0.58 c -0.29,0 -0.435,-0.145 -0.435,-0.435 v -7.105 c 0,-0.29 0.145,-0.435 0.435,-0.435 h 0.58 c 0.29,0 0.435,0.145 0.435,0.435 v 6.96 c 0.145,0.29 -0.145,0.58 -0.435,0.58 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke-width:1.45000005" />
+<path
+   id="XMLID_3_"
+   class="st13"
+   d="m 216.38,294.46 v 0 c -0.435,0 -0.725,0.29 -0.725,0.725 v 4.495 l -3.77,-4.93 v 0 l -0.145,-0.145 v 0 h -0.145 -0.145 v 0 0 h -0.145 v 0 c -0.29,0.145 -0.435,0.29 -0.58,0.58 0,0 0,0 0,0.145 v 0 6.38 c 0,0.435 0.29,0.725 0.725,0.725 v 0 c 0.435,0 0.725,-0.29 0.725,-0.725 v -4.205 l 3.77,4.785 c 0.145,0.145 0.145,0.145 0.29,0.29 v 0 h 0.145 v 0 0 h 0.145 v 0 c 0.29,0 0.58,-0.435 0.58,-0.725 v -6.67 c 0,-0.435 -0.29,-0.725 -0.725,-0.725 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke-width:1.45000005" />
+<path
+   id="XMLID_9_"
+   class="st13"
+   d="m 183.755,290.545 c -3.19,0 -5.8,2.755 -5.8,6.235 0,3.48 2.61,6.235 5.8,6.235 3.19,0 5.655,-2.9 5.655,-6.235 0,-3.335 -2.465,-6.235 -5.655,-6.235 z m 0,11.31 c -2.61,0 -4.64,-2.175 -4.64,-4.93 0,-2.755 2.03,-5.075 4.64,-5.075 2.61,0 4.64,2.175 4.64,5.075 0,2.9 -2.175,4.93 -4.64,4.93 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke-width:1.45000005" />
+<path
+   id="XMLID_8_"
+   class="st13"
+   d="m 195.5,297.07 v -0.435 c 0,-1.16 -1.015,-2.175 -2.175,-2.175 h -0.145 -1.595 v 0 c -0.435,0 -0.725,0.29 -0.725,0.725 v 6.38 c 0,0.435 0.29,0.725 0.725,0.725 v 0 c 0.435,0 0.725,-0.29 0.725,-0.725 v -1.885 l 1.74,2.32 c 0.29,0.29 0.725,0.435 1.015,0.145 v 0 c 0.29,-0.29 0.435,-0.725 0.145,-1.015 l -1.45,-2.03 c 1.015,-0.145 1.74,-1.015 1.74,-2.03 z m -1.16,-0.145 c 0,0.58 -0.435,1.16 -1.16,1.16 h -0.87 v 0 -2.32 h 0.87 c 0.58,-0.145 1.16,0.435 1.16,1.16 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke-width:1.45000005" />
 <g
    id="svg_125"
-   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
+   transform="matrix(1.45,0,0,1.45,8.45,5.475)">
 	<path
    id="svg_126"
    class="st0"
@@ -374,44 +374,45 @@
 <text
    id="headerSVG.think"
    class="st14 st15"
-   y="14.91655"
-   style="font-size:12.375px;font-family:Arial-BoldMT;stroke-width:1.125">THINK</text>
+   y="25.049721"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998"
+   x="8.4499998">THINK</text>
 
 
 
 <text
    id="headerSVG.code"
    class="st14 st15"
-   x="136.73163"
-   y="14.978989"
-   style="font-size:12.375px;font-family:Arial-BoldMT;stroke-width:1.125">CODE</text>
+   x="137.72392"
+   y="25.110081"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">CODE</text>
 
 
 
 <text
    id="headerSVG.deliver"
    class="st14 st15"
-   x="272.90283"
-   y="14.91655"
-   style="font-size:12.375px;font-family:Arial-BoldMT;stroke-width:1.125">DELIVER</text>
+   x="268.3894"
+   y="25.049721"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">DELIVER</text>
 
 
 
 <text
    id="headerSVG.run"
    class="st14 st15"
-   x="404.90283"
-   y="14.978989"
-   style="font-size:12.375px;font-family:Arial-BoldMT;stroke-width:1.125">RUN</text>
+   x="395.98941"
+   y="25.110081"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">RUN</text>
 
 
 
 <text
    id="headerSVG.issueTracker"
    class="st14 st15"
-   x="25.264061"
-   y="186.04143"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">ISSUE TRACKER</text>
+   x="10.282887"
+   y="186.06006"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">ISSUE TRACKER</text>
 
 
 
@@ -419,9 +420,9 @@
 <text
    id="headerSVG.repository"
    class="st14 st15"
-   x="162.51025"
-   y="186.04143"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">REPOSITORY</text>
+   x="168.68987"
+   y="186.06006"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">REPOSITORY</text>
 
 
 
@@ -429,58 +430,58 @@
 <text
    id="headerSVG.pipeline"
    class="st14 st15"
-   x="301.13727"
-   y="185.9998"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">PIPELINE</text>
+   x="294.29901"
+   y="185.99973"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">PIPELINE</text>
 
 
 
 <text
    id="headerSVG.ibmCloud"
    class="st14 st15"
-   x="434.49545"
-   y="186.04143"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">IBM Cloud</text>
+   x="420.96841"
+   y="186.06006"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">IBM Cloud</text>
 
 
 
 <text
    id="headerSVG.webIde"
    class="st14 st15"
-   x="163.09523"
-   y="345.5994"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">WEB IDE</text>
+   x="169.53809"
+   y="350.71915"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">WEB IDE</text>
 
 
 
 <text
    id="headerSVG.kubernetes"
    class="st14 st15"
-   x="431.51746"
-   y="199.64102"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">Kubernetes</text>
+   x="416.6503"
+   y="205.7795"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">Kubernetes</text>
 
 
 
 <text
    id="headerSVG.cluster"
    class="st14 st15"
-   x="442.70523"
-   y="211.64102"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">Cluster</text>
+   x="432.87259"
+   y="223.17947"
+   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">Cluster</text>
 
 
 
 <circle
    id="svg_7_1_"
    class="st1"
-   cx="455"
-   cy="128.35001"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
-   r="39.75" />
+   cx="456.64502"
+   cy="130.89999"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.45000005;stroke-miterlimit:10"
+   r="38.424999" />
 <g
    id="g92"
-   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
+   transform="matrix(1.45,0,0,1.45,8.45,5.475)">
 	<polygon
    id="svg_131"
    class="st16"
@@ -506,7 +507,7 @@
    style="fill:#326ce5" />
 	<polygon
    class="st17"
-   points="309.4,85.4 308.2,85.4 307.4,86.3 307.6,87.6 308.8,88.1 309.9,87.6 310.2,86.3 "
+   points="307.4,86.3 307.6,87.6 308.8,88.1 309.9,87.6 310.2,86.3 309.4,85.4 308.2,85.4 "
    id="polygon80"
    style="fill:#326ce5" />
 	<path
@@ -543,7 +544,7 @@
 <g
    id="hostedgit_icon1"
    display="default"
-   transform="matrix(1.5,0,0,1.5,-6.7316284,-1.312339)">
+   transform="matrix(1.45,0,0,1.45,8.45,5.475)">
     <text
    transform="translate(25,137.4998)"
    class="st14 st15"
@@ -594,7 +595,61 @@
    inkscape:connector-curvature="0"
    style="fill:#243238" />
 </g>
+<g
+   id="hostedgit_icon2"
+   display="default"
+   transform="matrix(1.45,0,0,1.45,8.45,5.475)">
+    <text
+   transform="translate(119,137.4998)"
+   class="st14 st15"
+   id="text111"
+   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitLab</text>
 
+
+
+	<path
+   class="st0"
+   d="m 123.5,88.7 c -6,-7.3 1.1,-17 2.3,-17"
+   id="path113"
+   inkscape:connector-curvature="0"
+   style="fill:none" />
+	<path
+   class="st18"
+   d="m 123.7,88.9 c -0.1,0 -0.3,0 -0.4,-0.1 -0.1,0 -0.3,0 -0.6,-0.1 -4.1,-0.6 -6.4,-3 -7.5,-4.8 -1.5,7.9 3.1,13.5 5.2,15.1 2.3,0 5.9,-0.9 8.5,-4.8 -1.4,-0.4 -4.3,-1.8 -5.2,-5.3 z"
+   id="path115"
+   inkscape:connector-curvature="0"
+   style="fill:#3b4b54" />
+	<path
+   class="st19"
+   d="m 129,94.2 c -0.1,0.1 -0.2,0.2 -0.2,0.3 -0.1,0.1 -0.2,0.3 -0.3,0.4 -2.5,3.2 -5.8,4 -7.9,4.1 6.1,5.3 13.2,4.1 15.7,3.1 1.1,-2 2.2,-5.6 0.1,-9.8 -1.3,1.1 -4,3 -7.4,1.9 z"
+   id="path117"
+   inkscape:connector-curvature="0"
+   style="fill:#0883a5" />
+	<path
+   class="st20"
+   d="m 136.3,92.3 c 0.1,0.1 0.1,0.2 0.1,0.4 0.1,0.1 0.1,0.3 0.2,0.5 1.5,3.8 0.6,7 -0.4,8.9 7.6,-2.7 10.1,-9.4 10.5,-12.1 -1.2,-2 -3.7,-4.7 -8.4,-5 0.3,1.6 0.6,4.9 -2,7.3 z"
+   id="path119"
+   inkscape:connector-curvature="0"
+   style="fill:#00aed1" />
+	<path
+   class="st21"
+   d="m 138.3,85.1 c 0.1,0 0.3,0 0.4,0.1 0.1,0 0.3,0 0.6,0.1 4.1,0.6 6.4,3 7.5,4.8 1.5,-7.9 -3.1,-13.5 -5.2,-15.1 -2.3,0 -5.9,0.9 -8.5,4.8 1.4,0.4 4.3,1.8 5.2,5.3 z"
+   id="path121"
+   inkscape:connector-curvature="0"
+   style="fill:#027c68" />
+	<path
+   class="st22"
+   d="m 133,79.8 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0.1,-0.1 0.2,-0.3 0.3,-0.4 2.5,-3.2 5.8,-4 7.9,-4.1 -6.1,-5.3 -13.2,-4.1 -15.7,-3.1 -1.1,2 -2.2,5.6 -0.1,9.8 1.3,-1.1 4,-3 7.4,-1.9 z"
+   id="path123"
+   inkscape:connector-curvature="0"
+   style="fill:#00b199" />
+	<path
+   class="st23"
+   d="m 125.7,81.7 c -0.1,-0.1 -0.1,-0.2 -0.1,-0.4 -0.1,-0.1 -0.1,-0.3 -0.2,-0.5 -1.5,-3.8 -0.6,-7 0.4,-8.9 -7.6,2.6 -10.1,9.4 -10.5,12 1.2,2 3.7,4.7 8.4,5 -0.3,-1.5 -0.6,-4.8 2,-7.2 z"
+   id="path125"
+   inkscape:connector-curvature="0"
+   style="fill:#243238" />
+</g>
 <g
    id="github_icon1"
    display="none"
@@ -1305,47 +1360,4 @@
    points="127.6,71.4 137.9,82.9 139.8,82.9 139.8,85 140.7,86 144.5,81.8 143.6,80.8 141.7,80.8 141.7,78.7 135.1,71.4 "
    id="polygon241" />
 </g>	
-<g
-   id="hostedgit_icon1-3"
-   display="default"
-   transform="matrix(1.5,0,0,1.5,123.93496,-1.248455)"><text
-     transform="translate(25,137.4998)"
-     class="st14 st15"
-     id="text94-5"
-     style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitLab</text>
-<path
-     class="st0"
-     d="m 36.5,88.7 c -6,-7.3 1.1,-17 2.3,-17"
-     id="path96-9"
-     inkscape:connector-curvature="0"
-     style="fill:none" /><path
-     class="st18"
-     d="m 36.7,88.9 c -0.1,0 -0.3,0 -0.4,-0.1 -0.1,0 -0.3,0 -0.6,-0.1 -4.1,-0.6 -6.4,-3 -7.5,-4.8 -1.5,7.9 3.1,13.5 5.2,15.1 2.3,0 5.9,-0.9 8.5,-4.8 -1.4,-0.4 -4.3,-1.8 -5.2,-5.3 z"
-     id="path98-4"
-     inkscape:connector-curvature="0"
-     style="fill:#3b4b54" /><path
-     class="st19"
-     d="m 42,94.2 c -0.1,0.1 -0.2,0.2 -0.2,0.3 -0.1,0.1 -0.2,0.3 -0.3,0.4 -2.5,3.2 -5.8,4 -7.9,4.1 6.1,5.3 13.2,4.1 15.7,3.1 1.1,-2 2.2,-5.6 0.1,-9.8 -1.3,1.1 -4,3 -7.4,1.9 z"
-     id="path100-1"
-     inkscape:connector-curvature="0"
-     style="fill:#0883a5" /><path
-     class="st20"
-     d="m 49.3,92.3 c 0.1,0.1 0.1,0.2 0.1,0.4 0.1,0.1 0.1,0.3 0.2,0.5 1.5,3.8 0.6,7 -0.4,8.9 7.6,-2.7 10.1,-9.4 10.5,-12.1 -1.2,-2 -3.7,-4.7 -8.4,-5 0.3,1.6 0.6,4.9 -2,7.3 z"
-     id="path102-5"
-     inkscape:connector-curvature="0"
-     style="fill:#00aed1" /><path
-     class="st21"
-     d="m 51.3,85.1 c 0.1,0 0.3,0 0.4,0.1 0.1,0 0.3,0 0.6,0.1 4.1,0.6 6.4,3 7.5,4.8 1.5,-7.9 -3.1,-13.5 -5.2,-15.1 -2.3,0 -5.9,0.9 -8.5,4.8 1.4,0.4 4.3,1.8 5.2,5.3 z"
-     id="path104-7"
-     inkscape:connector-curvature="0"
-     style="fill:#027c68" /><path
-     class="st22"
-     d="m 46,79.8 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0.1,-0.1 0.2,-0.3 0.3,-0.4 2.5,-3.2 5.8,-4 7.9,-4.1 -6.1,-5.3 -13.2,-4.1 -15.7,-3.1 -1.1,2 -2.2,5.6 -0.1,9.8 1.3,-1.1 4,-3 7.4,-1.9 z"
-     id="path106-0"
-     inkscape:connector-curvature="0"
-     style="fill:#00b199" /><path
-     class="st23"
-     d="m 38.7,81.7 c -0.1,-0.1 -0.1,-0.2 -0.1,-0.4 -0.1,-0.1 -0.1,-0.3 -0.2,-0.5 -1.5,-3.8 -0.6,-7 0.4,-8.9 -7.6,2.6 -10.1,9.4 -10.5,12 1.2,2 3.7,4.7 8.4,5 -0.3,-1.5 -0.6,-4.8 2,-7.2 z"
-     id="path108-4"
-     inkscape:connector-curvature="0"
-     style="fill:#243238" /></g></svg>
+</svg>
