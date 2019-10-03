@@ -12,13 +12,13 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 458.00002 316"
+   viewBox="0 0 525.00002 365"
    xml:space="preserve"
    id="svg244"
    sodipodi:docname="toolchain.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   width="458"
-   height="316"><metadata
+   width="525"
+   height="365"><metadata
    id="metadata250"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Layer 1</dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -31,16 +31,16 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="1255"
+   inkscape:window-height="717"
    id="namedview246"
    showgrid="false"
-   inkscape:zoom="3.4825462"
-   inkscape:cx="256.55093"
-   inkscape:cy="121.75"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
+   inkscape:zoom="1.7412731"
+   inkscape:cx="199.12169"
+   inkscape:cy="158.49631"
+   inkscape:window-x="78"
+   inkscape:window-y="78"
+   inkscape:window-maximized="0"
    inkscape:current-layer="svg244" />
 <style
    type="text/css"
@@ -77,9 +77,66 @@
 	.st29{fill:#AC5C51;}
 	.st30{fill:#9CDAF0;}
 </style>
-<g
+<line
+   id="svg_15"
+   class="st6"
+   x1="186"
+   y1="251.05002"
+   x2="186"
+   y2="222.55"
+   style="fill:none;stroke:#5aaafa;stroke-width:3;stroke-miterlimit:10" /><circle
+   id="svg_26"
+   class="st1"
+   cx="186"
+   cy="293.89999"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
+   r="39.75" /><path
+   id="XMLID_17_"
+   class="st11"
+   d="m 200.25,316.25001 h -28.8 c -4.2,0 -7.5,-3.45 -7.5,-7.50001 v -29.4 c 0,-4.19999 3.45,-7.49999 7.5,-7.49999 h 28.95 c 4.2,0 7.5,3.45 7.5,7.35 v 29.1 c -0.15,4.5 -3.45,7.95 -7.65,7.95 z"
+   inkscape:connector-curvature="0"
+   style="fill:#231f20;stroke-width:1.5" /><circle
+   id="XMLID_16_"
+   class="st12"
+   cx="199.04999"
+   cy="284.14999"
+   style="fill:#fcc215;stroke-width:1.5"
+   r="4.2000003" /><circle
+   id="XMLID_15_"
+   transform="rotate(-89.861606)"
+   class="st12"
+   cx="-293.88211"
+   cy="193.76163"
+   style="fill:#fcc215;stroke-width:1.50000429"
+   r="4.2000122" /><circle
+   id="XMLID_14_"
+   class="st12"
+   cx="187.05"
+   cy="304.54999"
+   style="fill:#fcc215;stroke-width:1.5"
+   r="4.2000003" /><path
+   id="XMLID_13_"
+   class="st13"
+   d="m 186.9,298.25 h -0.6 c -0.3,0 -0.45,-0.15006 -0.45,-0.44999 V 290.45 c 0,-0.29999 0.15,-0.44999 0.45,-0.44999 h 0.6 c 0.3,0 0.45,0.15006 0.45,0.44999 v 7.2 c 0.15,0.30001 -0.15,0.6 -0.45,0.6 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke-width:1.5" /><path
+   id="XMLID_3_"
+   class="st13"
+   d="m 205.35,290.00001 v 0 c -0.45,0 -0.75,0.3 -0.75,0.75 v 4.65 l -3.9,-5.1 v 0 l -0.15,-0.15006 v 0 h -0.15 -0.15 v 0 0 h -0.15 v 0 c -0.3,0.15006 -0.45,0.29999 -0.6,0.6 0,0 0,0 0,0.15006 v 0 6.6 c 0,0.45 0.3,0.74999 0.75,0.74999 v 0 c 0.45,0 0.75,-0.29999 0.75,-0.74999 V 293.15 l 3.9,4.95001 c 0.15,0.15007 0.15,0.15007 0.3,0.29999 v 0 h 0.15 v 0 0 h 0.15 v 0 c 0.3,0 0.6,-0.44999 0.6,-0.75 v -6.89999 c 0,-0.45 -0.3,-0.75 -0.75,-0.75 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke-width:1.5" /><path
+   id="XMLID_9_"
+   class="st13"
+   d="m 171.6,285.95 c -3.3,0 -6,2.85001 -6,6.45 0,3.60001 2.7,6.45 6,6.45 3.3,0 5.85,-2.99999 5.85,-6.45 0,-3.44999 -2.55,-6.45 -5.85,-6.45 z m 0,11.7 c -2.7,0 -4.8,-2.24999 -4.8,-5.1 0,-2.84999 2.1,-5.25 4.8,-5.25 2.7,0 4.8,2.25001 4.8,5.25 0,3.00001 -2.25,5.1 -4.8,5.1 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke-width:1.5" /><path
+   id="XMLID_8_"
+   class="st13"
+   d="m 183.75,292.70001 v -0.45 c 0,-1.20001 -1.05,-2.25 -2.25,-2.25 h -0.15 -1.65 v 0 c -0.45,0 -0.75,0.3 -0.75,0.75 v 6.6 c 0,0.45 0.3,0.75 0.75,0.75 v 0 c 0.45,0 0.75,-0.3 0.75,-0.75 v -1.95 l 1.8,2.4 c 0.3,0.3 0.75,0.44999 1.05,0.15006 v 0 c 0.3,-0.30001 0.45,-0.75 0.15,-1.05001 l -1.5,-2.09999 c 1.05,-0.15006 1.8,-1.05001 1.8,-2.1 z m -1.2,-0.15007 c 0,0.6 -0.45,1.2 -1.2,1.2 h -0.9 v 0 -2.39999 h 0.9 c 0.6,-0.15007 1.2,0.44999 1.2,1.19999 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke-width:1.5" /><g
    id="g7"
-   transform="translate(0,72.5)">
+   transform="translate(0,121.5)">
 	<title
    id="title4">background</title>
 	<rect
@@ -96,67 +153,67 @@
 <circle
    id="svg_1"
    class="st1"
-   cx="142.89999"
-   cy="159"
-   r="26.5"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-miterlimit:10" />
+   cx="187.7"
+   cy="128.35001"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
+   r="39.75" />
 <circle
    id="svg_2"
    class="st1"
-   cx="44.299999"
-   cy="159.3"
-   r="26.5"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-miterlimit:10" />
+   cx="57.799999"
+   cy="128.8"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
+   r="39.75" />
 <rect
    id="svg_3"
-   y="72.5"
+   y="1"
    class="st2"
-   width="108.55"
+   width="125.25"
    height="4.5"
    x="0"
-   style="fill:#eec02b;stroke-width:1.14017546" />
+   style="fill:#eec02b;stroke-width:1.22474492" />
 <rect
    id="svg_4"
-   x="115.7"
-   y="72.5"
+   x="134.54999"
+   y="1"
    class="st3"
-   width="108.55"
+   width="125.25"
    height="4.5"
-   style="fill:#1cb3a0;stroke-width:1.14017546" />
+   style="fill:#1cb3a0;stroke-width:1.22474492" />
 <rect
    id="svg_5"
-   x="231.7"
-   y="72.5"
+   x="269.54999"
+   y="1"
    class="st4"
-   width="108.55"
+   width="125.25"
    height="4.5"
-   style="fill:#975ad1;stroke-width:1.14017546" />
+   style="fill:#975ad1;stroke-width:1.22474492" />
 <rect
    id="svg_6"
-   x="348.79999"
-   y="72.5"
+   x="403.19998"
+   y="1"
    class="st5"
-   width="108.55"
+   width="125.25"
    height="4.5"
-   style="fill:#fc42a0;stroke-width:1.14017546" />
+   style="fill:#fc42a0;stroke-width:1.22474492" />
 <circle
    id="svg_7"
    class="st1"
-   cx="257.10001"
-   cy="159"
-   r="26.5"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-miterlimit:10" />
+   cx="323"
+   cy="128.35001"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
+   r="39.75" />
 <line
    id="svg_9"
    class="st6"
-   x1="43.799999"
-   y1="114.5"
-   x2="130.5"
-   y2="114.5"
-   style="fill:none;stroke:#5aaafa;stroke-width:2;stroke-miterlimit:10" />
+   x1="57.049999"
+   y1="61.600014"
+   x2="187.09999"
+   y2="61.600014"
+   style="fill:none;stroke:#5aaafa;stroke-width:3;stroke-miterlimit:10" />
 <g
    id="svg_10"
-   transform="matrix(0.99999869,0,0,1,5.6651348e-5,72.5)">
+   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
 	<g
    id="svg_11">
 		<polyline
@@ -169,22 +226,15 @@
 			<polygon
    id="svg_14"
    class="st7"
-   points="48.8,51.4 43.8,60 38.8,51.4 "
+   points="43.8,60 38.8,51.4 48.8,51.4 "
    style="fill:#5aaafa" />
 		</g>
 	</g>
 </g>
-<line
-   id="svg_15"
-   class="st6"
-   x1="146.5"
-   y1="240.5"
-   x2="146.5"
-   y2="221.5"
-   style="fill:none;stroke:#5aaafa;stroke-width:2;stroke-miterlimit:10" />
+
 <g
    id="svg_16"
-   transform="matrix(1.5086591,0,0,1,-66.081354,72.5)">
+   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
 	<g
    id="svg_17">
 		<line
@@ -207,7 +257,7 @@
 </g>
 <g
    id="svg_21"
-   transform="matrix(1.3773919,0,0,1,-58.91424,72.5)">
+   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
 	<g
    id="svg_22">
 		<line
@@ -223,21 +273,15 @@
 			<polygon
    id="svg_25"
    class="st7"
-   points="265.7,91.5 265.7,81.5 274.3,86.5 "
+   points="274.3,86.5 265.7,91.5 265.7,81.5 "
    style="fill:#5aaafa" />
 		</g>
 	</g>
 </g>
-<circle
-   id="svg_26"
-   class="st1"
-   cx="148.5"
-   cy="274.39999"
-   r="26.5"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-miterlimit:10" />
+
 <g
    id="svg_112"
-   transform="translate(36,72.5)">
+   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
 	<g
    id="g3-2"
    transform="scale(1.7500001)">
@@ -309,61 +353,17 @@
 		</g>
 	</g>
 </g>
-<path
-   id="XMLID_17_"
-   class="st11"
-   d="m 158,289.3 h -19.2 c -2.8,0 -5,-2.3 -5,-5 v -19.6 c 0,-2.8 2.3,-5 5,-5 h 19.3 c 2.8,0 5,2.3 5,4.9 V 284 c -0.1,3 -2.3,5.3 -5.1,5.3 z"
-   inkscape:connector-curvature="0"
-   style="fill:#231f20" />
-<circle
-   id="XMLID_16_"
-   class="st12"
-   cx="157.2"
-   cy="267.89999"
-   r="2.8"
-   style="fill:#fcc215" />
-<circle
-   id="XMLID_15_"
-   transform="rotate(-89.861606)"
-   class="st12"
-   cx="-274.32864"
-   cy="153.86389"
-   r="2.8000081"
-   style="fill:#fcc215;stroke-width:1.00000286" />
-<circle
-   id="XMLID_14_"
-   class="st12"
-   cx="149.2"
-   cy="281.5"
-   r="2.8"
-   style="fill:#fcc215" />
-<path
-   id="XMLID_13_"
-   class="st13"
-   d="m 149.1,277.3 h -0.4 c -0.2,0 -0.3,-0.1 -0.3,-0.3 v -4.9 c 0,-0.2 0.1,-0.3 0.3,-0.3 h 0.4 c 0.2,0 0.3,0.1 0.3,0.3 v 4.8 c 0.1,0.2 -0.1,0.4 -0.3,0.4 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-<path
-   id="XMLID_3_"
-   class="st13"
-   d="m 161.4,271.8 v 0 c -0.3,0 -0.5,0.2 -0.5,0.5 v 3.1 l -2.6,-3.4 v 0 l -0.1,-0.1 v 0 h -0.1 -0.1 v 0 0 h -0.1 v 0 c -0.2,0.1 -0.3,0.2 -0.4,0.4 0,0 0,0 0,0.1 v 0 4.4 c 0,0.3 0.2,0.5 0.5,0.5 v 0 c 0.3,0 0.5,-0.2 0.5,-0.5 v -2.9 l 2.6,3.3 c 0.1,0.1 0.1,0.1 0.2,0.2 v 0 h 0.1 v 0 0 h 0.1 v 0 c 0.2,0 0.4,-0.3 0.4,-0.5 v -4.6 c 0,-0.3 -0.2,-0.5 -0.5,-0.5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-<path
-   id="XMLID_9_"
-   class="st13"
-   d="m 138.9,269.1 c -2.2,0 -4,1.9 -4,4.3 0,2.4 1.8,4.3 4,4.3 2.2,0 3.9,-2 3.9,-4.3 0,-2.3 -1.7,-4.3 -3.9,-4.3 z m 0,7.8 c -1.8,0 -3.2,-1.5 -3.2,-3.4 0,-1.9 1.4,-3.5 3.2,-3.5 1.8,0 3.2,1.5 3.2,3.5 0,2 -1.5,3.4 -3.2,3.4 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-<path
-   id="XMLID_8_"
-   class="st13"
-   d="m 147,273.6 v -0.3 c 0,-0.8 -0.7,-1.5 -1.5,-1.5 h -0.1 -1.1 v 0 c -0.3,0 -0.5,0.2 -0.5,0.5 v 4.4 c 0,0.3 0.2,0.5 0.5,0.5 v 0 c 0.3,0 0.5,-0.2 0.5,-0.5 v -1.3 l 1.2,1.6 c 0.2,0.2 0.5,0.3 0.7,0.1 v 0 c 0.2,-0.2 0.3,-0.5 0.1,-0.7 l -1,-1.4 c 0.7,-0.1 1.2,-0.7 1.2,-1.4 z m -0.8,-0.1 c 0,0.4 -0.3,0.8 -0.8,0.8 h -0.6 v 0 -1.6 h 0.6 c 0.4,-0.1 0.8,0.3 0.8,0.8 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
+
+
+
+
+
+
+
+
 <g
    id="svg_125"
-   transform="translate(62,72.5)">
+   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
 	<path
    id="svg_126"
    class="st0"
@@ -374,49 +374,44 @@
 <text
    id="headerSVG.think"
    class="st14 st15"
-   y="85.999802"
+   y="14.999802"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">THINK</text>
-
 
 
 
 <text
    id="headerSVG.code"
    class="st14 st15"
-   x="117.15443"
-   y="86.041428"
+   x="135.15442"
+   y="15.041428"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">CODE</text>
-
 
 
 
 <text
    id="headerSVG.deliver"
    class="st14 st15"
-   x="231.26855"
-   y="85.999802"
+   x="271.26855"
+   y="14.999802"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">DELIVER</text>
-
 
 
 
 <text
    id="headerSVG.run"
    class="st14 st15"
-   x="349.26855"
-   y="86.041428"
+   x="403.26855"
+   y="15.041428"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">RUN</text>
-
 
 
 
 <text
    id="headerSVG.issueTracker"
    class="st14 st15"
-   x="13.40203"
-   y="197.07265"
-   style="font-size:6.1875px;font-family:Arial-BoldMT;stroke-width:0.56249994">ISSUE TRACKER</text>
-
+   x="25.264061"
+   y="186.04143"
+   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">ISSUE TRACKER</text>
 
 
 
@@ -424,10 +419,9 @@
 <text
    id="headerSVG.repository"
    class="st14 st15"
-   x="124.71165"
-   y="197.07265"
-   style="font-size:6.1875px;font-family:Arial-BoldMT;stroke-width:0.56249994">REPOSITORY</text>
-
+   x="162.51025"
+   y="186.04143"
+   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">REPOSITORY</text>
 
 
 
@@ -435,63 +429,58 @@
 <text
    id="headerSVG.pipeline"
    class="st14 st15"
-   x="237.13725"
-   y="196.9998"
+   x="301.13727"
+   y="185.9998"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">PIPELINE</text>
-
 
 
 
 <text
    id="headerSVG.ibmCloud"
    class="st14 st15"
-   x="348.49545"
-   y="197.04143"
+   x="434.49545"
+   y="186.04143"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">IBM Cloud</text>
-
 
 
 
 <text
    id="headerSVG.webIde"
    class="st14 st15"
-   x="129.09523"
-   y="310.5994"
+   x="163.09523"
+   y="345.5994"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">WEB IDE</text>
-
 
 
 
 <text
    id="headerSVG.kubernetes"
    class="st14 st15"
-   x="345.51746"
-   y="210.64102"
+   x="431.51746"
+   y="199.64102"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">Kubernetes</text>
-
 
 
 
 <text
    id="headerSVG.cluster"
    class="st14 st15"
-   x="356.70523"
-   y="222.64102"
+   x="442.70523"
+   y="211.64102"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">Cluster</text>
-
 
 
 
 <circle
    id="svg_7_1_"
    class="st1"
-   cx="371.10001"
-   cy="159"
-   r="26.5"
-   style="fill:#ffffff;stroke:#5aaafa;stroke-miterlimit:10" />
+   cx="455"
+   cy="128.35001"
+   style="fill:#ffffff;stroke:#5aaafa;stroke-width:1.5;stroke-miterlimit:10"
+   r="39.75" />
 <g
    id="g92"
-   transform="translate(62,72.5)">
+   transform="matrix(1.5,0,0,1.5,-8.6499996,-1.4)">
 	<polygon
    id="svg_131"
    class="st16"
@@ -517,7 +506,7 @@
    style="fill:#326ce5" />
 	<polygon
    class="st17"
-   points="309.9,87.6 310.2,86.3 309.4,85.4 308.2,85.4 307.4,86.3 307.6,87.6 308.8,88.1 "
+   points="309.4,85.4 308.2,85.4 307.4,86.3 307.6,87.6 308.8,88.1 309.9,87.6 310.2,86.3 "
    id="polygon80"
    style="fill:#326ce5" />
 	<path
@@ -554,13 +543,12 @@
 <g
    id="hostedgit_icon1"
    display="default"
-   transform="translate(0,72.5)">
+   transform="matrix(1.5,0,0,1.5,-6.7316284,-1.312339)">
     <text
    transform="translate(25,137.4998)"
    class="st14 st15"
    id="text94"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitLab</text>
-
 
 
 	<path
@@ -606,73 +594,17 @@
    inkscape:connector-curvature="0"
    style="fill:#243238" />
 </g>
-<g
-   id="hostedgit_icon2"
-   display="default"
-   transform="translate(12,72.5)">
-    <text
-   transform="translate(119,137.4998)"
-   class="st14 st15"
-   id="text111"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitLab</text>
 
-
-
-
-	<path
-   class="st0"
-   d="m 123.5,88.7 c -6,-7.3 1.1,-17 2.3,-17"
-   id="path113"
-   inkscape:connector-curvature="0"
-   style="fill:none" />
-	<path
-   class="st18"
-   d="m 123.7,88.9 c -0.1,0 -0.3,0 -0.4,-0.1 -0.1,0 -0.3,0 -0.6,-0.1 -4.1,-0.6 -6.4,-3 -7.5,-4.8 -1.5,7.9 3.1,13.5 5.2,15.1 2.3,0 5.9,-0.9 8.5,-4.8 -1.4,-0.4 -4.3,-1.8 -5.2,-5.3 z"
-   id="path115"
-   inkscape:connector-curvature="0"
-   style="fill:#3b4b54" />
-	<path
-   class="st19"
-   d="m 129,94.2 c -0.1,0.1 -0.2,0.2 -0.2,0.3 -0.1,0.1 -0.2,0.3 -0.3,0.4 -2.5,3.2 -5.8,4 -7.9,4.1 6.1,5.3 13.2,4.1 15.7,3.1 1.1,-2 2.2,-5.6 0.1,-9.8 -1.3,1.1 -4,3 -7.4,1.9 z"
-   id="path117"
-   inkscape:connector-curvature="0"
-   style="fill:#0883a5" />
-	<path
-   class="st20"
-   d="m 136.3,92.3 c 0.1,0.1 0.1,0.2 0.1,0.4 0.1,0.1 0.1,0.3 0.2,0.5 1.5,3.8 0.6,7 -0.4,8.9 7.6,-2.7 10.1,-9.4 10.5,-12.1 -1.2,-2 -3.7,-4.7 -8.4,-5 0.3,1.6 0.6,4.9 -2,7.3 z"
-   id="path119"
-   inkscape:connector-curvature="0"
-   style="fill:#00aed1" />
-	<path
-   class="st21"
-   d="m 138.3,85.1 c 0.1,0 0.3,0 0.4,0.1 0.1,0 0.3,0 0.6,0.1 4.1,0.6 6.4,3 7.5,4.8 1.5,-7.9 -3.1,-13.5 -5.2,-15.1 -2.3,0 -5.9,0.9 -8.5,4.8 1.4,0.4 4.3,1.8 5.2,5.3 z"
-   id="path121"
-   inkscape:connector-curvature="0"
-   style="fill:#027c68" />
-	<path
-   class="st22"
-   d="m 133,79.8 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0.1,-0.1 0.2,-0.3 0.3,-0.4 2.5,-3.2 5.8,-4 7.9,-4.1 -6.1,-5.3 -13.2,-4.1 -15.7,-3.1 -1.1,2 -2.2,5.6 -0.1,9.8 1.3,-1.1 4,-3 7.4,-1.9 z"
-   id="path123"
-   inkscape:connector-curvature="0"
-   style="fill:#00b199" />
-	<path
-   class="st23"
-   d="m 125.7,81.7 c -0.1,-0.1 -0.1,-0.2 -0.1,-0.4 -0.1,-0.1 -0.1,-0.3 -0.2,-0.5 -1.5,-3.8 -0.6,-7 0.4,-8.9 -7.6,2.6 -10.1,9.4 -10.5,12 1.2,2 3.7,4.7 8.4,5 -0.3,-1.5 -0.6,-4.8 2,-7.2 z"
-   id="path125"
-   inkscape:connector-curvature="0"
-   style="fill:#243238" />
-</g>
 <g
    id="github_icon1"
    display="none"
    style="display:none"
-   transform="translate(0,72.5)">
+   transform="translate(0,121.5)">
     <text
    transform="translate(25,137.4998)"
    class="st14 st15"
    id="text128"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitHub</text>
-
 
 
 
@@ -980,13 +912,12 @@
    id="github_icon2"
    display="none"
    style="display:none"
-   transform="translate(0,72.5)">
+   transform="translate(0,121.5)">
     <text
    transform="translate(119,137.4998)"
    class="st14 st15"
    id="text172"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitHub</text>
-
 
 
 
@@ -1294,7 +1225,7 @@
    id="bitbucket_icon1"
    display="none"
    style="display:none"
-   transform="translate(0,72.5)">
+   transform="translate(0,121.5)">
     <text
    transform="translate(25,137.4998)"
    class="st14 st15"
@@ -1303,20 +1234,19 @@
 
 
 
-
 	<path
    d="M 57.9,79.4 V 77 H 56.8 55.7 V 75.8 74.6 H 54.6 33 31.9 v 1.2 1.2 h -1.1 -1.1 v 2.4 H 27.5 V 98.9 H 60.1 V 79.4 Z M 33,75.8 H 54.6 V 77 H 33 Z m 26,22 H 28.7 V 80.7 h 1.1 28.1 1.1 z"
    id="path218"
    inkscape:connector-curvature="0" />
 	<polygon
-   points="40.6,90.4 47.1,90.4 48.2,90.4 48.2,89.2 48.2,87.9 47.1,87.9 47.1,89.2 40.6,89.2 40.6,87.9 39.5,87.9 39.5,89.2 39.5,90.4 "
+   points="39.5,89.2 39.5,90.4 40.6,90.4 47.1,90.4 48.2,90.4 48.2,89.2 48.2,87.9 47.1,87.9 47.1,89.2 40.6,89.2 40.6,87.9 39.5,87.9 "
    id="polygon220" />
 </g>
 <g
    id="bitbucket_icon2"
    display="none"
    style="display:none"
-   transform="translate(0,72.5)">
+   transform="translate(0,121.5)">
     <text
    transform="translate(119,137.4998)"
    class="st14 st15"
@@ -1325,20 +1255,19 @@
 
 
 
-
 	<path
    d="m 145.6,78.7 v -2.4 h -1.1 -1.1 v -1.2 -1.2 h -1.1 -21.6 -1.1 v 1.2 1.2 h -1.1 -1.1 v 2.4 h -2.2 v 19.5 h 32.4 V 78.7 Z m -24.9,-3.8 h 21.6 v 1.2 h -21.6 c 0.1,0 0.1,-1.2 0,-1.2 z m 25.9,22 H 116.3 V 79.8 h 1.1 28.2 1.1 v 17.1 z"
    id="path225"
    inkscape:connector-curvature="0" />
 	<polygon
-   points="128.4,89.7 134.8,89.7 135.9,89.7 135.9,88.4 135.9,87.1 134.8,87.1 134.8,88.4 128.4,88.4 128.4,87.1 127.2,87.1 127.2,88.4 127.2,89.7 "
+   points="127.2,88.4 127.2,89.7 128.4,89.7 134.8,89.7 135.9,89.7 135.9,88.4 135.9,87.1 134.8,87.1 134.8,88.4 128.4,88.4 128.4,87.1 127.2,87.1 "
    id="polygon227" />
 </g>
 <g
    id="gitlab_icon1"
    display="none"
    style="display:none"
-   transform="translate(0,72.5)">
+   transform="translate(0,121.5)">
     <text
    transform="translate(25,137.4998)"
    class="st14 st15"
@@ -1347,20 +1276,19 @@
 
 
 
-
 	<path
    d="M 30.2,97.3 34,101.5 50,83.7 46.2,79.5 Z M 34,100 31.6,97.3 46.3,81 l 2.4,2.7 z"
    id="path232"
    inkscape:connector-curvature="0" />
 	<polygon
-   points="53.7,83.7 53.7,85.8 54.6,86.8 58.4,82.6 57.5,81.6 55.6,81.6 55.6,79.5 49,72.1 41.5,72.1 51.8,83.7 "
+   points="41.5,72.1 51.8,83.7 53.7,83.7 53.7,85.8 54.6,86.8 58.4,82.6 57.5,81.6 55.6,81.6 55.6,79.5 49,72.1 "
    id="polygon234" />
 </g>
 <g
    id="gitlab_icon2"
    display="none"
    style="display:none"
-   transform="translate(0,72.5)">
+   transform="translate(0,121.5)">
     <text
    transform="translate(119,137.4998)"
    class="st14 st15"
@@ -1369,13 +1297,55 @@
 
 
 
-
 	<path
    d="m 116.3,96.5 3.8,4.2 16,-17.8 -3.8,-4.2 z m 3.8,2.7 -2.4,-2.7 14.7,-16.3 2.4,2.7 z"
    id="path239"
    inkscape:connector-curvature="0" />
 	<polygon
-   points="139.8,82.9 139.8,85 140.7,86 144.5,81.8 143.6,80.8 141.7,80.8 141.7,78.7 135.1,71.4 127.6,71.4 137.9,82.9 "
+   points="127.6,71.4 137.9,82.9 139.8,82.9 139.8,85 140.7,86 144.5,81.8 143.6,80.8 141.7,80.8 141.7,78.7 135.1,71.4 "
    id="polygon241" />
 </g>	
-</svg>
+<g
+   id="hostedgit_icon1-3"
+   display="default"
+   transform="matrix(1.5,0,0,1.5,123.93496,-1.248455)"><text
+     transform="translate(25,137.4998)"
+     class="st14 st15"
+     id="text94-5"
+     style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitLab</text>
+<path
+     class="st0"
+     d="m 36.5,88.7 c -6,-7.3 1.1,-17 2.3,-17"
+     id="path96-9"
+     inkscape:connector-curvature="0"
+     style="fill:none" /><path
+     class="st18"
+     d="m 36.7,88.9 c -0.1,0 -0.3,0 -0.4,-0.1 -0.1,0 -0.3,0 -0.6,-0.1 -4.1,-0.6 -6.4,-3 -7.5,-4.8 -1.5,7.9 3.1,13.5 5.2,15.1 2.3,0 5.9,-0.9 8.5,-4.8 -1.4,-0.4 -4.3,-1.8 -5.2,-5.3 z"
+     id="path98-4"
+     inkscape:connector-curvature="0"
+     style="fill:#3b4b54" /><path
+     class="st19"
+     d="m 42,94.2 c -0.1,0.1 -0.2,0.2 -0.2,0.3 -0.1,0.1 -0.2,0.3 -0.3,0.4 -2.5,3.2 -5.8,4 -7.9,4.1 6.1,5.3 13.2,4.1 15.7,3.1 1.1,-2 2.2,-5.6 0.1,-9.8 -1.3,1.1 -4,3 -7.4,1.9 z"
+     id="path100-1"
+     inkscape:connector-curvature="0"
+     style="fill:#0883a5" /><path
+     class="st20"
+     d="m 49.3,92.3 c 0.1,0.1 0.1,0.2 0.1,0.4 0.1,0.1 0.1,0.3 0.2,0.5 1.5,3.8 0.6,7 -0.4,8.9 7.6,-2.7 10.1,-9.4 10.5,-12.1 -1.2,-2 -3.7,-4.7 -8.4,-5 0.3,1.6 0.6,4.9 -2,7.3 z"
+     id="path102-5"
+     inkscape:connector-curvature="0"
+     style="fill:#00aed1" /><path
+     class="st21"
+     d="m 51.3,85.1 c 0.1,0 0.3,0 0.4,0.1 0.1,0 0.3,0 0.6,0.1 4.1,0.6 6.4,3 7.5,4.8 1.5,-7.9 -3.1,-13.5 -5.2,-15.1 -2.3,0 -5.9,0.9 -8.5,4.8 1.4,0.4 4.3,1.8 5.2,5.3 z"
+     id="path104-7"
+     inkscape:connector-curvature="0"
+     style="fill:#027c68" /><path
+     class="st22"
+     d="m 46,79.8 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0.1,-0.1 0.2,-0.3 0.3,-0.4 2.5,-3.2 5.8,-4 7.9,-4.1 -6.1,-5.3 -13.2,-4.1 -15.7,-3.1 -1.1,2 -2.2,5.6 -0.1,9.8 1.3,-1.1 4,-3 7.4,-1.9 z"
+     id="path106-0"
+     inkscape:connector-curvature="0"
+     style="fill:#00b199" /><path
+     class="st23"
+     d="m 38.7,81.7 c -0.1,-0.1 -0.1,-0.2 -0.1,-0.4 -0.1,-0.1 -0.1,-0.3 -0.2,-0.5 -1.5,-3.8 -0.6,-7 0.4,-8.9 -7.6,2.6 -10.1,9.4 -10.5,12 1.2,2 3.7,4.7 8.4,5 -0.3,-1.5 -0.6,-4.8 2,-7.2 z"
+     id="path108-4"
+     inkscape:connector-curvature="0"
+     style="fill:#243238" /></g></svg>
