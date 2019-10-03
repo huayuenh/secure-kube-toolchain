@@ -36,8 +36,8 @@
    id="namedview246"
    showgrid="false"
    inkscape:zoom="1.7412731"
-   inkscape:cx="176.14999"
-   inkscape:cy="121.75"
+   inkscape:cx="80.530297"
+   inkscape:cy="160.22565"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -380,12 +380,14 @@
 
 
 
+
 <text
    id="headerSVG.code"
    class="st14 st15"
    x="137.72392"
    y="25.110081"
    style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">CODE</text>
+
 
 
 
@@ -398,12 +400,14 @@
 
 
 
+
 <text
    id="headerSVG.run"
    class="st14 st15"
    x="395.98941"
    y="25.110081"
    style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">RUN</text>
+
 
 
 
@@ -417,12 +421,14 @@
 
 
 
+
 <text
    id="headerSVG.repository"
    class="st14 st15"
    x="168.68987"
    y="186.06006"
-   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">REPOSITORY</text>
+   style="font-size:18.66666667px;font-family:Arial-BoldMT;stroke-width:1.08749998;-inkscape-font-specification:'Arial-BoldMT, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">REPOSITORY</text>
+
 
 
 
@@ -436,12 +442,14 @@
 
 
 
+
 <text
    id="headerSVG.ibmCloud"
    class="st14 st15"
    x="420.96841"
    y="186.06006"
    style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">IBM Cloud</text>
+
 
 
 
@@ -454,6 +462,7 @@
 
 
 
+
 <text
    id="headerSVG.kubernetes"
    class="st14 st15"
@@ -463,12 +472,14 @@
 
 
 
+
 <text
    id="headerSVG.cluster"
    class="st14 st15"
    x="432.87259"
    y="223.17947"
    style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">Cluster</text>
+
 
 
 
@@ -552,6 +563,7 @@
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitLab</text>
 
 
+
 	<path
    class="st0"
    d="m 36.5,88.7 c -6,-7.3 1.1,-17 2.3,-17"
@@ -604,6 +616,7 @@
    class="st14 st15"
    id="text111"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitLab</text>
+
 
 
 
@@ -660,6 +673,7 @@
    class="st14 st15"
    id="text128"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">GitHub</text>
+
 
 
 
@@ -976,6 +990,7 @@
 
 
 
+
 	<path
    id="path-1_1_"
    class="st24"
@@ -1289,6 +1304,7 @@
 
 
 
+
 	<path
    d="M 57.9,79.4 V 77 H 56.8 55.7 V 75.8 74.6 H 54.6 33 31.9 v 1.2 1.2 h -1.1 -1.1 v 2.4 H 27.5 V 98.9 H 60.1 V 79.4 Z M 33,75.8 H 54.6 V 77 H 33 Z m 26,22 H 28.7 V 80.7 h 1.1 28.1 1.1 z"
    id="path218"
@@ -1307,6 +1323,7 @@
    class="st14 st15"
    id="text223"
    style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">Bitbucket</text>
+
 
 
 
@@ -1331,6 +1348,7 @@
 
 
 
+
 	<path
    d="M 30.2,97.3 34,101.5 50,83.7 46.2,79.5 Z M 34,100 31.6,97.3 46.3,81 l 2.4,2.7 z"
    id="path232"
@@ -1349,6 +1367,7 @@
    class="st14 st15"
    id="text237"
    style="font-size:11px;font-family:Arial-BoldMT">GitLab</text>
+
 
 
 
