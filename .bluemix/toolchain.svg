@@ -31,16 +31,16 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1255"
-   inkscape:window-height="717"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
    id="namedview246"
    showgrid="false"
    inkscape:zoom="1.7412731"
-   inkscape:cx="199.12169"
-   inkscape:cy="158.49631"
-   inkscape:window-x="78"
-   inkscape:window-y="78"
-   inkscape:window-maximized="0"
+   inkscape:cx="216.25308"
+   inkscape:cy="215.23231"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
    inkscape:current-layer="svg244" />
 <style
    type="text/css"
@@ -374,35 +374,35 @@
 <text
    id="headerSVG.think"
    class="st14 st15"
-   y="14.999802"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">THINK</text>
+   y="14.91655"
+   style="font-size:12.375px;font-family:Arial-BoldMT;stroke-width:1.125">THINK</text>
 
 
 
 <text
    id="headerSVG.code"
    class="st14 st15"
-   x="135.15442"
-   y="15.041428"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">CODE</text>
+   x="136.73163"
+   y="14.978989"
+   style="font-size:12.375px;font-family:Arial-BoldMT;stroke-width:1.125">CODE</text>
 
 
 
 <text
    id="headerSVG.deliver"
    class="st14 st15"
-   x="271.26855"
-   y="14.999802"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">DELIVER</text>
+   x="272.90283"
+   y="14.91655"
+   style="font-size:12.375px;font-family:Arial-BoldMT;stroke-width:1.125">DELIVER</text>
 
 
 
 <text
    id="headerSVG.run"
    class="st14 st15"
-   x="403.26855"
-   y="15.041428"
-   style="font-size:8.25px;font-family:Arial-BoldMT;stroke-width:0.75">RUN</text>
+   x="404.90283"
+   y="14.978989"
+   style="font-size:12.375px;font-family:Arial-BoldMT;stroke-width:1.125">RUN</text>
 
 
 
