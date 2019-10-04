@@ -31,17 +31,18 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="1110"
+   inkscape:window-height="732"
    id="namedview246"
    showgrid="false"
    inkscape:zoom="1.7412731"
-   inkscape:cx="176.14999"
+   inkscape:cx="80.530297"
    inkscape:cy="160.22565"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="svg244" />
+   inkscape:window-x="157"
+   inkscape:window-y="51"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg244"
+   inkscape:snap-text-baseline="false" />
 <style
    type="text/css"
    id="style2">
@@ -1380,4 +1381,24 @@
    points="127.6,71.4 137.9,82.9 139.8,82.9 139.8,85 140.7,86 144.5,81.8 143.6,80.8 141.7,80.8 141.7,78.7 135.1,71.4 "
    id="polygon241" />
 </g>	
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot3907"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+     id="flowRegion3909"><rect
+       id="rect3911"
+       width="113.13561"
+       height="48.814857"
+       x="31.586084"
+       y="262.20166" /></flowRegion><flowPara
+     id="flowPara3913">g</flowPara></flowRoot><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="113.13561"
+   y="297.80777"
+   id="text3917"><tspan
+     sodipodi:role="line"
+     id="tspan3915"
+     x="113.13561"
+     y="297.80777">A</tspan></text>
 </svg>
