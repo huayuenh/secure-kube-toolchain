@@ -38,8 +38,8 @@
    inkscape:zoom="1.7412731"
    inkscape:cx="80.530297"
    inkscape:cy="160.22565"
-   inkscape:window-x="157"
-   inkscape:window-y="51"
+   inkscape:window-x="48"
+   inkscape:window-y="121"
    inkscape:window-maximized="0"
    inkscape:current-layer="svg244"
    inkscape:snap-text-baseline="false" />
@@ -418,7 +418,7 @@
    class="st14 st15"
    x="10.282887"
    y="186.06006"
-   style="font-size:11.96250057px;font-family:Arial-BoldMT;stroke-width:1.08749998">ISSUE TRACKER</text>
+   style="font-size:20px;font-family:Arial-BoldMT;stroke-width:1.08749998">ISSUE TRACKER</text>
 
 
 
@@ -1400,5 +1400,5 @@
      sodipodi:role="line"
      id="tspan3915"
      x="113.13561"
-     y="297.80777">A</tspan></text>
+     y="297.80777">AZ</tspan></text>
 </svg>
