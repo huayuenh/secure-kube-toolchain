@@ -40,12 +40,15 @@ services:
       has_issues: true
       enable_traceability: true
   build:
-    service_id: pipeline
+    service_id: tektonpipeline
     parameters:
       services:
         - repo
       name: '{{services.repo.parameters.repo_name}}'
-      ui-pipeline: true
+      git_repo_url: 'https://github.com/open-toolchain/hello-containers.git'
+      git_ref: 'master'
+      pipeline_path: '.'
+      namespace: 'broker-pipelines'
       configuration:
         content:
           $text: pipeline.yml
