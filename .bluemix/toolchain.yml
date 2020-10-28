@@ -12,6 +12,9 @@ template:
   required:
     - build
     - repo
+    - tekton-catalog-repo
+    - tekton-gitsecure
+    - tekton-catalog-repo-nadgowdas
   $configuration:
      ENABLE_EXTENSIONS: true
      ENABLE_IF_ELSE: true
@@ -54,6 +57,17 @@ services:
       type: "link"
       has_issues: false
       enable_traceability: false
+      legal: true
+      kind: ['pipeline']
+  tekton-catalog-repo-nadgowdas:
+    service_id: >
+      $env.pipeline_type === 'tekton' ? 'githubconsolidated' : ''
+    parameters:
+      repo_url: "https://github.com/nadgowdas/tekton-catalog"
+      source_repo_url: "https://github.com/nadgowdas/tekton-catalog"
+      type: "link"
+      has_issues: false
+      enable_traceability: false
       kind: ['pipeline']
   tekton-catalog-repo:
     service_id: >
@@ -65,11 +79,55 @@ services:
       has_issues: false
       enable_traceability: false
       kind: ['pipeline']
+  pr:
+    service_id: pipeline
+    parameters:
+      services:
+        - repo
+        - tekton-catalog-repo
+        - tekton-gitsecure
+      name: 'pr-pipeline'
+      type: >
+        $env.pipeline_type === 'tekton' ? 'tekton': 'classic'
+      ui-pipeline: true
+      configuration:
+        content:
+          $text: >
+            $env.pipeline_type === 'tekton' ? 'pr_pipeline_tekton.yml' : 'pipeline.yml'
+        env:
+          PIPELINE_REPO: pipeline-repo
+          APP_REPO: repo
+          API_KEY: '{{form.pipeline.parameters.api-key}}'
+          APP_NAME: "{{form.pipeline.parameters.app-name}}"
+          TEKTON_GITSECURE: tekton-gitsecure
+          ARTIFACTORY_DOCKER_CONFIG_JSON: '{{form.artifactoryComp.parameters.docker_config_json}}'
+          PRIVATE_WORKER: '{{services.privateWorker.parameters.name}}'
+          PIPELINE_REPO_BRANCH: >
+            $env.branch ? $env.branch : "master"
+          TEKTON_CATALOG_REPO: tekton-catalog-repo
+          TEKTON_CATALOG_REPO_NADGOWDAS: tekton-catalog-repo-nadgowdas
+          REGISTRY_REGION_ID: "{{form.pipeline.parameters.registry-region}}"
+          REGISTRY_NAMESPACE: "{{form.pipeline.parameters.registry-namespace}}"
+          GIT_COMMIT_EVENT_LISTENER_NAME: >
+            if ( $env.source_provider === 'githubconsolidated' ) {
+              'github-pr-listener';
+            } else if ( $env.source_provider === 'gitlab' ) {
+              'gitlab-pr-listener';
+            } else if ( $env.source_provider === 'bitbucketgit' ) {
+              'bitbucket-commit';
+            } else if ( $env.source_provider === 'github_integrated' ) {
+              'github-ent-pr-listener';
+            } else {
+              'gitlab-pr-listener';
+            }
+        execute: false
   build:
     service_id: pipeline
     parameters:
       services:
         - repo
+        - tekton-catalog-repo
+        - tekton-gitsecure
       name: "{{services.repo.parameters.repo_name}}"
       ui-pipeline: true
       type: >
@@ -106,20 +164,23 @@ services:
           PIPELINE_REPO_BRANCH: >
             $env.branch ? $env.branch : "master"
           TEKTON_CATALOG_REPO: tekton-catalog-repo
+          TEKTON_CATALOG_REPO_NADGOWDAS: tekton-catalog-repo-nadgowdas
           GIT_COMMIT_EVENT_LISTENER_NAME: >
             if ( $env.source_provider === 'githubconsolidated' ) {
-              'github-commit';
+              'github-ci-listener';
             } else if ( $env.source_provider === 'gitlab' ) {
-              'grit-or-gitlab-commit';
+              'gitlab-ci-listener';
             } else if ( $env.source_provider === 'bitbucketgit' ) {
               'bitbucket-commit';
             } else if ( $env.source_provider === 'github_integrated' ) {
-              'github-commit';
+              'github-ent-ci-listener';
             } else {
-              'grit-or-gitlab-commit';
+              'gitlab-ci-listener';
             }
         execute: >
           $env.pipeline_type === 'tekton' ? false : true
+  devops-insights:
+    service_id: draservicebroker
   webide:
     service_id: orion
 form:
