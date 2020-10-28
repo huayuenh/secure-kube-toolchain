@@ -95,7 +95,7 @@ services:
           $text: >
             if ( $env.pipeline_type === 'tekton' ) {
               if ( $env.env_id === 'ibm:yp:us-south' ) {
-                "pr_pipeline_tekton.yml"
+                "south_pr_pipeline_tekton.yml"
               } else {
                 "pr_pipeline_tekton.yml"
               }
