@@ -103,8 +103,6 @@ spec:
           value: $(tasks.git-clone.results.git-branch)
         - name: git-commit
           value: $(tasks.git-clone.results.git-commit)
-        - name: test
-          value: $(tasks.extract-doi-enablement.results.extracted-value)
     - name: docker-lint
       runAfter: [git-clone]
       taskRef:
