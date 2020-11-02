@@ -121,7 +121,6 @@ services:
     parameters:
       services:
         - repo
-        - tekton-catalog-repo
       name: 'ci-pipeline'
       ui-pipeline: true
       type: >
