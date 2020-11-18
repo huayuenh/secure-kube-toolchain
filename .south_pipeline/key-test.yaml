@@ -1,0 +1,44 @@
+---
+apiVersion: tekton.dev/v1beta1
+kind: Task
+metadata:
+  name: key-test
+spec:
+  params:
+    - name: continuous-delivery-context-secret
+      description: name of the configmap containing the continuous delivery pipeline context secrets
+      default: secure-properties
+    - name: toolchain-apikey-secret-key
+      description: field in the secret that contains the api key used to login to ibmcloud kubernetes service
+      default: api-key
+    - name: vault-secret
+      default: vault-secret
+    - name: secret1
+    - name: secret2
+    - name: secret3
+  steps:
+    - name: key-test
+      image: ibmcom/pipeline-base-image:2.6
+      env:
+        - name: SECRET1
+          valueFrom:
+            secretKeyRef:
+              name: $(params.continuous-delivery-context-secret)
+              key: $(params.secret1)
+        - name: SECRET2
+          valueFrom:
+            secretKeyRef:
+              name: $(params.continuous-delivery-context-secret)
+              key: $(params.secret2)
+        - name: SECRET3
+          valueFrom:
+            secretKeyRef:
+              name: $(params.continuous-delivery-context-secret)
+              key: $(params.secret3)
+      script: |
+          #!/bin/bash
+          echo "hello"
+  workspaces:
+    - name: artifacts
+      description: A workspace backing by a volume
+      mountPath: /artifacts

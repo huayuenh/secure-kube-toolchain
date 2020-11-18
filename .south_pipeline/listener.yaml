@@ -57,6 +57,9 @@ spec:
     - name: project-id
       description: project id
       default: ""
+    - name: secret1
+    - name: secret2
+    - name: secret3
   resourcetemplates:
     - apiVersion: v1
       kind: PersistentVolumeClaim
@@ -125,6 +128,12 @@ spec:
             value: $(params.scm-type)
           - name: project-id
             value: $(params.project-id) 
+          - name: secret1
+            value: $(params.secret1)
+          - name: secret2
+            value: $(params.secret2)
+          - name: secret3
+            value: $(params.secret3)
         workspaces:
           - name: pipeline-ws
             persistentVolumeClaim:

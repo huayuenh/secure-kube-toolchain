@@ -177,8 +177,7 @@ services:
             } else {
               'grit-or-gitlab-commit';
             }
-        execute: >
-          $env.pipeline_type === 'tekton' ? 'manual-run' : true
+        execute: false
   devops-insights:
     service_id: >
       $env.pipeline_type === 'tekton' && $env.env_id === 'ibm:yp:us-south' ? 'draservicebroker' : '' 

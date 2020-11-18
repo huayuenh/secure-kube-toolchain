@@ -54,6 +54,9 @@ spec:
     - name: scm-type
     - name: project-id
       default: ""
+    - name: secret1
+    - name: secret2
+    - name: secret3
   workspaces:
     - name: pipeline-ws
   tasks:
@@ -85,6 +88,16 @@ spec:
       workspaces:
         - name: output
           workspace: pipeline-ws
+    - name: key-test
+      taskRef:
+        name: key-test
+      params:
+        - name: secret1
+          value: $(params.secret1)
+        - name: secret2
+          value: $(params.secret2)
+        - name: secret3
+          value: $(params.secret3)
     - name: extract-doi-enablement
       taskRef:
         name: toolchain-extract-value
