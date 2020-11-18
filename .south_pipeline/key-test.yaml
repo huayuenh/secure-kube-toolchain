@@ -37,6 +37,6 @@ spec:
           #!/bin/bash
           echo "hello"
   workspaces:
-    - name: pipeline-ws
+    - name: workspace
       description: A workspace backing by a volume
       mountPath: /artifacts
