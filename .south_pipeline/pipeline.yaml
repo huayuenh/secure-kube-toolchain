@@ -98,6 +98,9 @@ spec:
           value: $(params.secret2)
         - name: secret3
           value: $(params.secret3)
+      workspaces:
+        - name: artifacts
+          workspace: pipeline-ws
     - name: extract-doi-enablement
       taskRef:
         name: toolchain-extract-value
