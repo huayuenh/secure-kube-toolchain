@@ -19,23 +19,20 @@ spec:
       image: ibmcom/pipeline-base-image:2.6
       env:
         - name: SECRET1
-          valueFrom:
-            secretKeyRef:
-              name: $(params.continuous-delivery-context-secret)
-              key: $(params.secret1)
+          value: $(params.secret1)
         - name: SECRET2
-          valueFrom:
-            secretKeyRef:
-              name: $(params.continuous-delivery-context-secret)
-              key: $(params.secret2)
+          value: $(params.secret2)
         - name: SECRET3
-          valueFrom:
-            secretKeyRef:
-              name: $(params.continuous-delivery-context-secret)
-              key: $(params.secret3)
+          value: $(params.secret3)
       script: |
           #!/bin/bash
           echo "hello"
+          echo "$SECRET1" | base64 > test1
+          cat test1
+          echo "$SECRET2" | base64 > test2
+          cat test2
+          echo "$SECRET3" | base64 > test3
+          cat test3
   workspaces:
     - name: artifacts
       description: A workspace backing by a volume
