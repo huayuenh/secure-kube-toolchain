@@ -13,8 +13,11 @@
 
 
 ### <a id="taas-ciso-registration"></a>TaaS and CISO Registration
-There are a couple of steps that need to be done prior to creating this toolchain for the first time.
-Please see:
+There are a couple of steps that need to be taken prior to creating this toolchain for the first time. 
+1) Get access to a private worker that can establish a connection with the IBM internal network
+2) A CISO account complete with a signing certificate
+
+The CISO service is a signing service that can be leveraged for signing images. A worker with access to the internal IBM network is required to reach the CISO service. Visit the following links for more details.
 
 * **[CISO Code Signing Service and Key Setup](<https://github.ibm.com/one-pipeline/compliance-ci-toolchain/blob/master/docs/ciso-setup.md>)**
 
