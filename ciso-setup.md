@@ -31,10 +31,10 @@ or from the home page
 
 ![](https://github.ibm.com/one-pipeline/docs/blob/master/assets/signing-setup/ciso/certrequest.png)
 
-Note: You do note require a production certificate for signing. The CISO team can provide a self-signed certificate for development
+Note: You do not require a production certificate for signing. The CISO team can provide a self-signed certificate for development
 
 ### <a id="access"></a>Download the CISO certficate key to access your CISO services
-### Downloading the Installer
+#### Downloading the Installer
 
 The Compliance-CI-Template uses the CISO signing client to facilitate signing images. The Tekton signing task in the Compliance-CI-Template uses a preconfigured image with the CISO client already installed. It only requires the CISO .pfx file to access the CISO signing service. There is a distinction between the these certificates. The certificate in the previous step is used for signing. The certificate in this step is used for accessing the CISO services.
 
@@ -66,25 +66,26 @@ ekm-client-2.0.2001.42407-el7+el8.x86_64.rpm
 We only need the file with the .pfx extension to proceed. 
 The steps differ slightly depeneding on whether Key-Protect or Hashicorp vaults are used and whether you are using a Windows or Linux based machine.
 
-Mac
+#### Mac
 
-Double base64 encoding
+* ##### Double base64 encoding
 ```javascript
 echo $(cat Client_XXXXXXXXXXXXXXXXX.pfx | base64) | base64
 ```
 
-Single base64 encoding
+* ##### Single base64 encoding
 ```javascript
 cat Client_XXXXXXXXXXXXXXXXX.pfx | base64
 ```
 
-Windows
-Double base64 encoding
+#### Windows
+
+* ##### Double base64 encoding
 ```javascript
 echo $(cat Client_XXXXXXXXXXXXXXXXX.pfx | base64 -w0) | base64 -w0
 ```
 
-Single base64 encoding
+* ##### Single base64 encoding
 ```javascript
 cat Client_XXXXXXXXXXXXXXXXX.pfx | base64 -w0
 ```
