@@ -36,7 +36,7 @@ Note: You do note require a production certificate for signing. The CISO team ca
 ### <a id="access"></a>Download the CISO certficate key to access your CISO services
 ### Downloading the Installer
 
-The Compliance-CI-Template uses the CISO signing client to facilitate signing images. The Tekton signing task uses a preconfigured image with the CISO client already installed. It only requires the CISO .pfx file to access the CISO signing service.
+The Compliance-CI-Template uses the CISO signing client to facilitate signing images. The Tekton signing task in the Compliance-CI-Template uses a preconfigured image with the CISO client already installed. It only requires the CISO .pfx file to access the CISO signing service. There is a distinction between the these certificates. The certificate in the previous step is used for signing. The certificate in this step is used for accessing the CISO services.
 
 The .pfx file can be obtained by downloading the CISO client.
 
@@ -127,4 +127,4 @@ name as these will be required when configuring the Compliance Template
 
 
 ### Hashicorp
-Alternatively you can use your own instance of Hashicorp. When uploading the .pfx content. It needs to be single encoded
+Alternatively you can use your own instance of Hashicorp. When uploading the .pfx content. It needs to be singlebase64  encoded
