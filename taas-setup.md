@@ -40,5 +40,9 @@ Look for the API key section and create a new key
 ![](https://github.ibm.com/one-pipeline/docs/blob/master/assets/signing-setup/taas/createkey.png)
 
 ***Important!*** Make note of the provided key as it will only be displayed once. The key
-will be required for the Compliance-CI-Toolchain set up. It is recommended that this key be saved in a vault such as Hashicorp or Key-Protect, Hashicorp being the vault favoured by compliance-ci-template For Key-Protect only this key needs to be single base64 encoded before saving in in Key-Protect
-See the [Vault Section](https://github.com/huayuenh/secure-kube-toolchain/blob/readme/ciso-setup.md#vault) in the CISO-setup steps for creating a key in Key-Protect if required
+will be required for the Compliance-CI-Toolchain set up. It is recommended that this key be saved in a vault such as Hashicorp or Key-Protect, Hashicorp being the vault favoured by compliance-ci-template.
+
+For Key-Protect only this key needs to be single base64 encoded before saving in in Key-Protect
+See the [Vault Section](https://github.ibm.com/one-pipeline/compliance-ci-toolchain/blob/master/docs/taas-setup.md#vault) in the CISO-setup steps for creating a key in Key-Protect if required
+
+
