@@ -92,8 +92,11 @@ cat Client_XXXXXXXXXXXXXXXXX.pfx | base64 -w0
 
 This is important due to the different handling of line breaks
 
+### Hashicorp
+You can use your own instance of Hashicorp. When uploading the .pfx content. It needs to be single base64  encoded.
+This is now the preferred method for the compliance-ci-template
 
-#### Creating Key-Protect instance
+### Creating Key-Protect instance
 Note: requires the value of the double base64 encoded .pfx file
 Visit
 <https://cloud.ibm.com/catalog/services/key-protect>
@@ -125,8 +128,3 @@ Click import key
 
 Make note of the Key-protect service instance name as well as the key
 name as these will be required when configuring the Compliance Template
-
-
-### Hashicorp
-Alternatively you can use your own instance of Hashicorp. When uploading the .pfx content. It needs to be single base64  encoded.
-This is now the preferred method for the compliance-ci-template

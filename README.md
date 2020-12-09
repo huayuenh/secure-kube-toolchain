@@ -17,7 +17,7 @@ There are a couple of steps that need to be taken prior to creating this toolcha
 1) Get access to a private worker that can establish a connection with the IBM internal network
 2) A CISO account complete with a signing certificate
 
-The CISO service is a signing service that can be leveraged for signing images. A worker with access to the internal IBM network is required to reach the CISO service. If you do not already has a private worker with IBM intenral network access, yu can avail of the services provided by TaaS. With TaaS, you can generate a service_api_key, that will allow you access to a pool of workers that have been preconfigured with IBM network access. Visit the following links for more details.
+The CISO service is a signing service that can be leveraged for signing images. A worker with access to the internal IBM network is required to reach the CISO service. If you do not already has a private worker with IBM intenral network access, you can avail of the services provided by TaaS. With TaaS, you can generate a service_api_key, that will allow you access to a pool of workers that have been preconfigured with IBM network access. Visit the following links for more details.
 
 * **[CISO Code Signing Service and Key Setup](<https://github.ibm.com/one-pipeline/compliance-ci-toolchain/blob/master/docs/ciso-setup.md>)**
 
