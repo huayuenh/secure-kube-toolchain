@@ -93,7 +93,7 @@ cat Client_XXXXXXXXXXXXXXXXX.pfx | base64 -w0
 This is important due to the different handling of line breaks
 
 
-### Creating Key-Protect instance
+#### Creating Key-Protect instance
 Note: requires the value of the double base64 encoded .pfx file
 Visit
 <https://cloud.ibm.com/catalog/services/key-protect>
@@ -103,7 +103,7 @@ Create a new Key Protect instance or use an existing one.
 Select the region and specify a service name for the instance.
 
 
-### Uploading the certificate to the Vault.
+#### Uploading the certificate to the Vault.
 
 Go to
 <https://cloud.ibm.com/resources>
