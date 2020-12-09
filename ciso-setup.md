@@ -127,4 +127,5 @@ name as these will be required when configuring the Compliance Template
 
 
 ### Hashicorp
-Alternatively you can use your own instance of Hashicorp. When uploading the .pfx content. It needs to be singlebase64  encoded
+Alternatively you can use your own instance of Hashicorp. When uploading the .pfx content. It needs to be singlebase64  encoded.
+This is now the preferred method for the compliance-ci-template
