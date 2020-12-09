@@ -1,12 +1,11 @@
 # CISO Code Signing Service and Key Setup
 
 ###  Prerequisites
-#### Registering a Team
 
 The compliance-ci-toolchain leverages the CISO services to sign images.
 You need to be a member of a team registered with CISO or have a team member who already has this access.
 The steps required are:
-* **[Register/join a CISO registered team](#registration)**
+* **[Register/Join a CISO registered team](#registration)**
 * **[Obtain a signing certificate](#certificate)**
 * **[Download the CISO certficate key to access your CISO services](#access)**
 * **[Save the certificate/key into a secure vault for your pipeline to access it](#vault)**
